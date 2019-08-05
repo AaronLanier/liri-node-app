@@ -10,3 +10,9 @@ Song Name: MONSTERS
  Preview Link: https://api.spotify.com/v1/tracks/1qAuIPMALdFtGv2Ymjy5l0
 Album Name: ATTENTION ATTENTION
 ======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Shinedown
+Song Name: MONSTERS
+ Preview Link: https://api.spotify.com/v1/tracks/1qAuIPMALdFtGv2Ymjy5l0
+Album Name: ATTENTION ATTENTION
+======End Spotify Log Entry======

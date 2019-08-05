@@ -1,0 +1,10 @@
+======Begin Movie Log Entry======
+Movie title: Braveheart
+Year released: 1995
+IMDB rating: 8.4
+Rotten Tomatoes rating: 77%
+Country where produced: USA
+Language: English, French, Latin, Scottish Gaelic, Italian
+Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
+======End Movie Log Entry======
