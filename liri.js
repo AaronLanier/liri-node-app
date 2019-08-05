@@ -93,4 +93,26 @@ function getOMDB(movie) {
         });
 };
 
+function getRandom() {
+    fs.readFile("random.txt", "utf8", function (error, data) {
+        if (error) {
+            return console.log(error);
+
+        } else {
+            console.log(data);
+
+            var randomData = data.split(",");
+            runLiri(randomData[0], randomData[1]);
+        }
+        
+
+    });
+};
+
+
+function logResults(data) {
+fs.appendFile("log.txt", data, function (err) {
+    if (err) throw err;
+});
+};
 runLiri(appCommand, userInput);
