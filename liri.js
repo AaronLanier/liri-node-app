@@ -90,7 +90,33 @@ function getOMDB(movie) {
             fs.appendFile("log.txt", logMovie, function (err) {
                 if (err) throw err;
             });
+            // console.log(response.data)
         });
+};
+
+function getBandsInTown(artist) {
+
+    var artist = userInput;
+    var bandQueryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
+
+    axios.get(bandQueryURL).then(
+        function (response) {
+            console.log("=============================");
+            console.log("Name of the venue: " + response.data[0].venue.name + "\r\n");
+            console.log("Venue Location: " + response.data[0].venue.city + "\r\n");
+            console.log("Date of event: " + moment(response.data[0].datetime).format("MM-DD-YYYY") + "\r\n");
+
+            var logConcert = "======Begin Concert Log Entry======" + "\nName of the musician: " + artist + "\nName of the venue: " + response.data[0].venue.name + "\nVenue location: " + response.data[0].venue.city + "\n Date of event: " + moment(response.data[0].datetime).format("MM-DD-YYYY") + "\n======End Concert Log Entry======" + "\n";
+
+            fs.appendFile("log.txt", logConcert, function (err) {
+                if (err) throw err;
+            })
+            
+            logResults(response.data)
+            // console.log(response)
+        })
+        .catch
+        (err=>{ console.log(err); });
 };
 
 function getRandom() {
