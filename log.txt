@@ -8,7 +8,7 @@ Language: English, French, Latin, Scottish Gaelic, Italian
 Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
 Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
 ======End Movie Log Entry======
-[object Object]======Begin Movie Log Entry======
+======Begin Movie Log Entry======
 Movie title: Braveheart
 Year released: 1995
 IMDB rating: 8.4
@@ -18,22 +18,37 @@ Language: English, French, Latin, Scottish Gaelic, Italian
 Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
 Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
 ======End Movie Log Entry======
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]======Begin Concert Log Entry======
+======Begin Concert Log Entry======
 Name of the musician: santana
 Name of the venue: Xcel Energy Center
 Venue location: St Paul
  Date of event: 08-03-2019
 ======End Concert Log Entry======
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]======Begin Concert Log Entry======
+======Begin Concert Log Entry======
 Name of the musician: santana
 Name of the venue: Xcel Energy Center
 Venue location: St Paul
  Date of event: 08-03-2019
 ======End Concert Log Entry======
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]======Begin Concert Log Entry======
+======Begin Concert Log Entry======
 Name of the musician: santana
 Name of the venue: Xcel Energy Center
 Venue location: St Paul
  Date of event: 08-03-2019
 ======End Concert Log Entry======
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+======Begin Concert Log Entry======
+Name of the musician: santana
+Name of the venue: Ruoff Home Mortgage Music Center
+Venue location: Noblesville
+ Date of event: 08-09-2019
+======End Concert Log Entry======
+======Begin Movie Log Entry======
+Movie title: Braveheart
+Year released: 1995
+IMDB rating: 8.4
+Rotten Tomatoes rating: 77%
+Country where produced: USA
+Language: English, French, Latin, Scottish Gaelic, Italian
+Plot: When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.
+Actors: James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo
+======End Movie Log Entry======

@@ -58,7 +58,7 @@ function getSpotify(songName) {
 
         var logSong = "======Begin Spotify Log Entry======" + "\nArtist: " + data.tracks.items[0].album.artists[0].name + "\nSong Name: " + data.tracks.items[0].name + "\n Preview Link: " + data.tracks.items[0].href + "\nAlbum Name: " + data.tracks.items[0].album.name + "\n======End Spotify Log Entry======" + "\n";
 
-        fs.appendFile("random.txt", logSong, function (err) {
+        fs.appendFile("log.txt", logSong, function (err) {
             if (err) throw err;
         });
     });
@@ -120,7 +120,7 @@ function getBandsInTown(artist) {
 };
 
 function getRandom() {
-    fs.readFile("random.txt", "utf8", function (error, data) {
+    fs.readFile("log.txt", "utf8", function (error, data) {
         if (error) {
             return console.log(error);
 

@@ -1,18 +1,1 @@
-spotify-this-song,"I Want it That Way"======Begin Spotify Log Entry======
-Artist: Drake
-Song Name: Money In The Grave (Drake ft. Rick Ross)
- Preview Link: https://api.spotify.com/v1/tracks/5ry2OE6R2zPQFDO85XkgRb
-Album Name: The Best In The World Pack
-======End Spotify Log Entry======
-======Begin Spotify Log Entry======
-Artist: Shinedown
-Song Name: MONSTERS
- Preview Link: https://api.spotify.com/v1/tracks/1qAuIPMALdFtGv2Ymjy5l0
-Album Name: ATTENTION ATTENTION
-======End Spotify Log Entry======
-======Begin Spotify Log Entry======
-Artist: Shinedown
-Song Name: MONSTERS
- Preview Link: https://api.spotify.com/v1/tracks/1qAuIPMALdFtGv2Ymjy5l0
-Album Name: ATTENTION ATTENTION
-======End Spotify Log Entry======
+spotify-this-song,"I Want it That Way"
